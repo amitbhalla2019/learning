@@ -1,2 +1,2 @@
 print ("Learning this exercise to create githooks")
-print ("New Sample One")
+print ("New Sample One A")
